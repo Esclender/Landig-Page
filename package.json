@@ -1,0 +1,24 @@
+{
+  "name": "landig-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esclender/Landig-Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Esclender/Landig-Page/issues"
+  },
+  "homepage": "https://github.com/Esclender/Landig-Page#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
